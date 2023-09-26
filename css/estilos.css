@@ -17,3 +17,17 @@ body {
 .container h1 {
     font-size: 20px;
 }
+
+.cabecera {
+    background-color: blue;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    color: white
+}
+
+.cabacera .tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
